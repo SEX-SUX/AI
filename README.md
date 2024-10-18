@@ -58,7 +58,7 @@ This is a pyrogram based telegram bot. AI, Search History, Telegram User ID, Inf
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Silicon-Developer/Multi-Tasking-Bot">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SEX-SUX/AI">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
