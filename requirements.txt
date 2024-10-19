@@ -25,3 +25,4 @@ Mangandi
 Flask
 gunicorn
 aiohttp==3.8.5
+MangoSeed
